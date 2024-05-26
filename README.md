@@ -21,6 +21,12 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
+
+### 💻 Checkout my Leetcode
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Brodan_?theme=dark&ext=activity)](https://leetcode.com/Brodan_/)
+
 <!--
 **brand0nnn/brand0nnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
