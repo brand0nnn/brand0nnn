@@ -1,7 +1,7 @@
 ## Hi, I'm Brandon! 🌱
 
-- I am an undergraduate working towards a Bachelor's Degreee in Computer Engineering at the National University of Singapore (NUS).
-- I am interested in **Software Engineering**, **Data Engineering** and **Intelligent Systems**.
+- 🏫 I am an undergraduate working towards a Bachelor's Degreee in Computer Engineering at the National University of Singapore (NUS).
+- 📚 I am interested in **Software Engineering**, **Data Engineering** and **Intelligent Systems**.
 
 ---
 
