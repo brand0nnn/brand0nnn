@@ -23,7 +23,7 @@
 
 ---
 
-### 💻 Checkout my Leetcode
+### 💻 Check out my Leetcode
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Brodan_?theme=dark&ext=activity)](https://leetcode.com/Brodan_/)
 
